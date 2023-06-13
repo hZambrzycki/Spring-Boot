@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: zeta.springbeta.zeta.ZetaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.733 s - in zeta.springbeta.zeta.ZetaApplicationTests
